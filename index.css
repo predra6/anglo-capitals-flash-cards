@@ -2,6 +2,7 @@ html, body {
     margin: 0;
     padding: 0;
     background-image: url("background.png");
+    background-position: center;
 }
 
 main {
