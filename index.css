@@ -9,9 +9,8 @@ main {
 }
 
 .card {
-    aspect-ratio: 1 / 1;
     background-color: lightgray;
-    margin: 1em;
+    margin: 2em;
     border-radius: 5px;
     width: 200px;
 }
