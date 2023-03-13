@@ -1,0 +1,20 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    display: flex;
+}
+
+.card {
+    aspect-ratio: 1 / 1;
+    background-color: lightgray;
+    margin: 1em;
+    border-radius: 5px;
+    width: 200px;
+}
+
+.card-body > button {
+    display: block;
+}
